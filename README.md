@@ -5,3 +5,6 @@ This article is intriguing because it sheds light on the challenges and quirks o
 
 
 
+# a-j-hwang's comment
+
+I liked how the article begins by identifying some possible flaws within the process of interviewing for software engineering jobs. Whilst clearly stating that the process may be flawed, it continues to give some advices about the interview, which was helpful and satirical at the same time. I found the 'The initial call with HR' part funny because I could totally relate to the process of 'They will ask you to talk about yourself' to 'They will really try to pitch their company' - and the anecdote about the industry was hilarious!   
