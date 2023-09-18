@@ -1,8 +1,7 @@
-This is my article: https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463
+# Hi! I'm Phoebus Yip
+### This is my [article.](https://betterprogramming.pub/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463)
 
-This article is intriguing because it sheds light on the challenges and quirks of the software engineering job market from a candid and humorous perspective. It delves into the often arduous interview process, highlighting the stark contrast between coding interviews and real-world tasks. Additionally, it emphasizes the complexities of the software industry, where job roles can be highly specialized, making it harder for both job seekers and employers to find the perfect match. Lastly, the mention of language choice in interviews adds an interesting layer, showcasing how this factor can impact the candidate's performance and the interviewer's ability to evaluate effectively.
-
-
+This article is intriguing to me because it demonstrates the challenges of landing a software engineering job in this current market, and it does this in a humorous perspective. It goes through the automatated coding interview, which the author dislikes the most (for good reason), the coding interview and also the final interview. The author discusses things that most fresh graduate applicants will likely not be aware of, such as the downside of an interview where the applicant gets to pick the language (e.g. the interviewer not knowing the language the applicant picks). One memorable part of this article is how the author describes the HR talk as "They will ask if “now is still a good time.” If it were not a good time, then you probably should not have picked up.", and how they missed one HR talk because they had to unclog a toilet. The article also has links to useful resources for people to prepare for coding interviews, and even included a warm reminder to not blindly use a hashmap for every problem (relatable).
 
 
 # a-j-hwang's comment
